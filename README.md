@@ -10,9 +10,10 @@
 *	Max temperature for June is 85 degrees and max temperature for December is 83 degrees. December having lower temperature of 56 degrees than June of 64 degrees.
 
 *	There are more counts in June months in comparison to December months.
+
 ![plot](dec.png) 
 
 
 ## Summary ## 
-The analysis based on the temperatures between June and December illustrates merely a difference which proves our Surf shop will have abundant customers, even though might be better idea to surfup in June where you are exposed to dry topical weather than in wet weather 
+The analysis based on the temperatures between June and December illustrates merely a difference which proves our Surf shop will have abundant customers, even though might it might be a better idea to surfup in June where you are exposed to dry topical weather than wet weather. 
 
